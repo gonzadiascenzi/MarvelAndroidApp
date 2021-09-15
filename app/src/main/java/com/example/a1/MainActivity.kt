@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.a1.Utils.constansts
+import com.example.a1.utils.constansts
 import com.example.a1.adapters.CharactersAdapter
 import com.example.a1.api.APIService
 import com.example.a1.databinding.ActivityMainBinding
@@ -58,7 +58,5 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-private fun <T> Call<T>.enqueue(callback: Callback<characters>) {
 
-}
 

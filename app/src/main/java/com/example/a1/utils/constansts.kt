@@ -1,4 +1,4 @@
-package com.example.a1.Utils
+package com.example.a1.utils
 
 class constansts {
 

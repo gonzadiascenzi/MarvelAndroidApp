@@ -1,6 +1,6 @@
 package com.example.a1.api
 
-import com.example.a1.Utils.constansts
+import com.example.a1.utils.constansts
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
